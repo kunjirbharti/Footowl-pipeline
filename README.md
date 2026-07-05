@@ -127,9 +127,6 @@ fotoowl-pipeline/
 │
 ├── requirements.txt
 └── README.md
-```
-
----
 
 ## Tech Stack
 
@@ -151,11 +148,7 @@ fotoowl-pipeline/
 
 Clone the repository
 
-```bash
-git clone https://github.com/yourusername/fotoowl-pipeline.git
-
 cd fotoowl-pipeline
-```
 
 Create a virtual environment
 
