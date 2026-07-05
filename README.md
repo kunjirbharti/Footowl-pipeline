@@ -144,53 +144,7 @@ fotoowl-pipeline/
 
 ---
 
-## Installation
 
-Clone the repository
-
-cd fotoowl-pipeline
-
-Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate it
-
-Windows
-
-```bash
-venv\Scripts\activate
-```
-
-Linux / Mac
-
-```bash
-source venv/bin/activate
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Environment Variables
-
-Create a `.env` file.
-
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
-
-Generate an API key from:
-
-https://aistudio.google.com/app/apikey
-
----
 
 ##  Run
 
